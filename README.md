@@ -1,1 +1,1 @@
-https://github.com/Marcus7m/Marcus7mm.github.io.git
+https://marcus7m.github.io/
