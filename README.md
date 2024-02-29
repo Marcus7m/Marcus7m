@@ -1,4 +1,2 @@
-# github.io Website Template
-The source code for the personal page of this user.
-
-Provided by the tutorial at https://kinsta.com/blog/github-pages/
+# Marcus7m.github.io
+My first Github Page: Website assignment
